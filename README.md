@@ -25,6 +25,7 @@ You can click the Preview link to take a look at your changes.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ You can click the Preview link to take a look at your changes.
 | ------- |
 | [0009-palindrome-number](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
