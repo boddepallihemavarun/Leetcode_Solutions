@@ -81,4 +81,20 @@ You can click the Preview link to take a look at your changes.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0088-merge-sorted-array) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
