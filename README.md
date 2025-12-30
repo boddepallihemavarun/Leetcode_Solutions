@@ -54,6 +54,7 @@ You can click the Preview link to take a look at your changes.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0094-binary-tree-inorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -84,10 +85,12 @@ You can click the Preview link to take a look at your changes.
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -96,5 +99,6 @@ You can click the Preview link to take a look at your changes.
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
