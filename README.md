@@ -38,6 +38,7 @@ You can click the Preview link to take a look at your changes.
 | [0009-palindrome-number](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ You can click the Preview link to take a look at your changes.
 | [0020-valid-parentheses](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
@@ -105,4 +107,12 @@ You can click the Preview link to take a look at your changes.
 | [0094-binary-tree-inorder-traversal](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0101-symmetric-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
