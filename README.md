@@ -90,23 +90,27 @@ You can click the Preview link to take a look at your changes.
 | [0094-binary-tree-inorder-traversal](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
