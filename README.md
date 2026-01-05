@@ -45,6 +45,7 @@ You can click the Preview link to take a look at your changes.
 | [0066-plus-one](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -143,4 +144,12 @@ You can click the Preview link to take a look at your changes.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
