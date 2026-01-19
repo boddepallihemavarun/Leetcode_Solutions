@@ -32,6 +32,7 @@ You can click the Preview link to take a look at your changes.
 | [0035-search-insert-position](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0136-single-number) |
 ## Hash Table
 |  |
@@ -177,6 +178,7 @@ You can click the Preview link to take a look at your changes.
 | [0070-climbing-stairs](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0097-interleaving-string) |
+| [0120-triangle](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0120-triangle) |
 ## Memoization
 |  |
 | ------- |
