@@ -55,6 +55,7 @@ You can click the Preview link to take a look at your changes.
 | [0067-add-binary](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0089-gray-code) |
 ## String
 |  |
 | ------- |
@@ -159,6 +160,7 @@ You can click the Preview link to take a look at your changes.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0190-reverse-bits) |
 ## Simulation
@@ -171,6 +173,7 @@ You can click the Preview link to take a look at your changes.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0022-generate-parentheses) |
+| [0089-gray-code](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0095-unique-binary-search-trees-ii) |
 ## Greedy
 |  |
