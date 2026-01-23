@@ -173,6 +173,7 @@ You can click the Preview link to take a look at your changes.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0022-generate-parentheses) |
+| [0077-combinations](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0095-unique-binary-search-trees-ii) |
 ## Greedy
