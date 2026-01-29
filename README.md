@@ -75,6 +75,7 @@ You can click the Preview link to take a look at your changes.
 | [0058-length-of-last-word](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
@@ -115,6 +116,7 @@ You can click the Preview link to take a look at your changes.
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0141-linked-list-cycle) |
 ## String Matching
 |  |
