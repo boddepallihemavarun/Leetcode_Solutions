@@ -86,6 +86,7 @@ You can click the Preview link to take a look at your changes.
 | ------- |
 | [0020-valid-parentheses](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0144-binary-tree-preorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -144,6 +145,7 @@ You can click the Preview link to take a look at your changes.
 | [0104-maximum-depth-of-binary-tree](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -153,6 +155,7 @@ You can click the Preview link to take a look at your changes.
 | [0104-maximum-depth-of-binary-tree](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -170,6 +173,7 @@ You can click the Preview link to take a look at your changes.
 | [0104-maximum-depth-of-binary-tree](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0144-binary-tree-preorder-traversal) |
 ## Bit Manipulation
 |  |
 | ------- |
